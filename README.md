@@ -2,4 +2,4 @@
 
 Menu digital cai cafe Mapastepec chiapas
 
-DEMO LIVE:  https://elingejuanmx.github.io/menucaicafe/
+DEMO LIVE:  https://baduser97.github.io/menu_caicafe/

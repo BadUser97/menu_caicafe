@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 * {
     box-sizing: border-box;
 
@@ -94,3 +96,27 @@ body {
 /*.fijar {
     margin-top: -120px;
 } */
+
+.container3{
+    margin-top: 10px;
+    text-align: center;
+    padding-bottom: 20px;
+    width: 100%;
+    height: auto;
+
+}
+
+#whatsapp{
+    width: 50px;
+}
+
+button{
+    background-color: rgb(56, 233, 56);
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    border-color: honeydew;
+    box-shadow: 3px 3px white;
+    color: rgb(12, 12, 12);
+}
